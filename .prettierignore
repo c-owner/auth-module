@@ -1,0 +1,8 @@
+nuxt.config.ts
+templates/
+node_modules
+.nuxt
+dist
+docs/static/sw.js
+temp
+coverage/
