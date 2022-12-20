@@ -1,6 +1,4 @@
-# Nuxt3 스타터 템플릿
-
-Nuxt3 정식 릴리즈 버전으로 typescript를 사용하고, eslint, prettier 등 개발에 필요한 모듈들과 VueJS, NuxtJS 개발에 필요한 기타 필수 요소 모듈들 적용해봅니다.
+# Nuxt3 auth-module
 
 
 ## Connect with me
@@ -15,6 +13,9 @@ Nuxt3 정식 릴리즈 버전으로 typescript를 사용하고, eslint, prettier
 </div>
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+
+
+--- 
 
 ## Setup
 
